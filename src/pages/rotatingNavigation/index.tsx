@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import { navigateStyle } from './style'
 import { Box, IconButton, Stack, Typography } from '@mui/material'
 import TharRed from '../../assets/tharRed.png'
